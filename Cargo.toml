@@ -1,0 +1,8 @@
+[package]
+name = "rusty-tree"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ctrlc = "3.5.2"
+rand = "0.10.4"
